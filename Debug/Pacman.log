@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\brand\source\repos\Pacman\Pacman\main.cpp(13,30): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\brand\source\repos\Pacman\Pacman\main.cpp(42,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brand\source\repos\Pacman\Pacman\main.cpp(42,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brand\source\repos\Pacman\Pacman\main.cpp(100,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brand\source\repos\Pacman\Pacman\main.cpp(100,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brand\source\repos\Pacman\Pacman\main.cpp(112,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brand\source\repos\Pacman\Pacman\main.cpp(112,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pacman.vcxproj -> C:\Users\brand\source\repos\Pacman\Debug\Pacman.exe
